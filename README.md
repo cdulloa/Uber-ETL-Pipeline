@@ -1,5 +1,3 @@
-# Uber-ETL-Pipeline
-Project showcasing ETL tools and Data Analytics
 # Uber Data Analytics | Modern Data Engineering GCP Project
 
 ## Introduction
@@ -31,5 +29,17 @@ More info about dataset can be found here:
 ## Data Model
 <img src="images/Uber Data Model.png">
 
+## Mage -> GCP (BigQuery) -> Looker Studio
+<p float="left">
+  <img src="images/Forgithuib_Uber_dataEngineering.PNG" width="300" height="400" />
+  <img src="images/Forgithuib_Uber_dataEngineering_2.PNG" width="350" height="400" /> 
+  <img src="images/Capture.PNG" width="350" height="400" />
+</p>
+
+
+
 ## Dashboard
-link: https://lookerstudio.google.com/s/pw30VGfktiU
+<img src="Uber_Dashboard-1.png">
+
+
+link: https://lookerstudio.google.com/s/iNetptey9RI
